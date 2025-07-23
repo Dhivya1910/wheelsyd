@@ -1,0 +1,11 @@
+name = "fit5120-temple"
+compatibility_date = "2025-04-26"
+
+main = "functions/proxy.js"
+
+compatibility_flags = ["nodejs_compat"]
+
+[build]
+  command = "npm install"
+
+  

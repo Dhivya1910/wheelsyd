@@ -1,0 +1,49 @@
+,_id,name,female,male,wheelchair,operator,baby_facil,lat,lon
+4,5,Public Toilet - Toilet 177 - Bellair Street (Opposite 180 Bellair Street),yes,yes,yes,City of Melbourne,no,-37.79373229128235,144.9303518616331
+5,6,Public Toilet - Toilet 118 - Fitzroy Gardens (2 Lansdowne Street),yes,yes,yes,City of Melbourne,no,-37.815278082082735,144.97758877995486
+6,7,Public Toilet - Toilet 34 - Franklin Street (Opposite 80 Franklin Street),yes,yes,yes,City of Melbourne,no,-37.8082334704767,144.9601868749377
+7,8,Public Toilet - Town Hall Melbourne (200 Collins Street),yes,yes,yes,City of Melbourne,yes,-37.81521576619692,144.96694328510318
+8,9,Public Toilet - Toilet 131 - Royal Park (Flemington Rd - Near North Park Tennis Club),yes,yes,yes,City of Melbourne,no,-37.790174410412384,144.94366905096865
+10,11,Public Toilet - Toilet 3 - Flinders Street (399 Flinders Street),yes,yes,yes,City of Melbourne,no,-37.81940611413847,144.96127683121782
+11,12,Public Toilet - Toilet 48 - Birrarung Marr (Opposite Artplay),yes,yes,yes,City of Melbourne,no,-37.81859887229392,144.97105956826817
+12,13,Public Toilet - Toilet 104 - Kings Domain South (off Birdwood Avenue),yes,yes,yes,City of Melbourne,no,-37.83084912404898,144.97518226820782
+13,14,Public Toilet - Toilet 46 - Bourke Street (opposite 225 Bourke Street),yes,yes,yes,City of Melbourne,no,-37.81324543360198,144.9668965896814
+14,15,Public Toilet - Toilet 109 - Kings Domain Myer Music Bowl Rear of,yes,yes,yes,City of Melbourne,yes,-37.82289159858857,144.975280957334
+15,16,"Public Toilet - Toilet 55 - Royal Park (Nature Play, Opposite 51 Gatehouse Street)",yes,yes,yes,City of Melbourne,no,-37.795523148389,144.952142962802
+16,17,Public Toilet - Toilet 112 - Alexandra Gardens (Riverslide Skate Park),yes,yes,yes,City of Melbourne,no,-37.8203552728411,144.9733129088743
+17,18,Public Toilet - Toilet 41 - Flinders Street (No 245 Flinders Street Station),yes,yes,yes,City of Melbourne,no,-37.81790319705616,144.9662642552638
+18,19,Public Toilet - Toilet 136 - Ievers Reserve - Flemington Road,yes,yes,yes,City of Melbourne,no,-37.79679899805757,144.95196665126468
+22,23,Public Toilet - Toilet 128 - Princes Park South Playground (Princes Park Drive),yes,yes,yes,City of Melbourne,no,-37.7855983874526,144.9630353603256
+23,24,"Public Toilet - Saint Mangos Lane, The Palladio (New Quay)",yes,yes,yes,City of Melbourne,no,-37.81435831108069,144.94168216712015
+24,25,Public Toilet - Toilet 4 - Market Street (Opposite 74 Market Street),yes,yes,yes,City of Melbourne,no,-37.81746989209639,144.96025433528794
+25,26,Public Toilet - Toilet 138 - Carlton Gardens North (Opposite 199 Rathdowne Street),yes,yes,yes,City of Melbourne,no,-37.80264555498511,144.96982128721504
+28,29,"Public Toilet - Toilet 173 - JJ Holland Park, Skate Park (113 Kensington Road)",yes,yes,yes,City of Melbourne,no,-37.79806402388687,144.92110584392117
+29,30,Public Toilet - Toilet 36 - Lonsdale Street (Opposite 424 Lonsdale Street),yes,yes,yes,City of Melbourne,U,-37.8129330992456,144.9600121469519
+34,35,Public Toilet - Toilet 13 - Exhibition Street (Opposite 77 Exhibition Street),yes,yes,yes,City of Melbourne,no,-37.81384641664995,144.9713740947211
+35,36,Public Toilet - Toilet 127 - Princes Park Royal Parade (near Park Street),yes,yes,yes,City of Melbourne,no,-37.7789496090064,144.96046591899102
+36,37,Public Toilet - Toilet 111 - Birrarung Marr Speakers Corner,yes,yes,yes,City of Melbourne,no,-37.821004779775386,144.97593322373976
+39,40,Public Toilet - Toilet 122 - Treasury Gardens (Store and Toilet),yes,yes,yes,City of Melbourne,no,-37.81341843500891,144.97746700744847
+40,41,"Public Toilet - Toilet 120 - Royal Park, Wetland (off Oak Street)",yes,yes,yes,City of Melbourne,no,-37.78303248417686,144.94185635299425
+41,42,Public Toilet - Toilet 103 - Kings Domain South (Opposite 169 Domain Road),yes,yes,yes,City of Melbourne,no,-37.83393826633729,144.9817840463506
+42,43,Public Toilet - Queen Victoria Market (465 Queen Street),yes,yes,yes,City of Melbourne,yes,-37.80783122147196,144.95795526595654
+43,44,Public Toilet - Toilet 178 -  Argyle Place North (Opposite 4 Argyle Place North),yes,yes,yes,City of Melbourne,no,-37.80207629420745,144.96642403988702
+44,45,Public Toilet - Toilet 100 - Royal Park - Native Garden (off Gatehouse Street),yes,yes,yes,City of Melbourne,no,-37.79251146448698,144.95685172084129
+46,47,Public Toilet - Toilet 52 - Princes Park (Adjacent Southern Sports Pavilion),yes,yes,yes,City of Melbourne,no,-37.787904827147685,144.95949479077186
+47,48,Public Toilet - Toilet 179 - Lincoln Square (138-142 Bouverie Street),yes,yes,yes,City of Melbourne,no,-37.80271182455448,144.96226812695767
+48,49,Public Toilet - Toilet 43 - Queen Street (opposite 113 Queen Street),yes,yes,yes,City of Melbourne,no,-37.815838165017645,144.9610620730027
+49,50,Public Toilet - Toilet 110 - Queen Victoria Gardens (Linlithgow Avenue),yes,yes,yes,City of Melbourne,no,-37.82294828867767,144.97098568179825
+50,51,Public Toilet - Toilet 154 - Flagstaff Gardens (cnr William & Dudley),yes,yes,yes,City of Melbourne,no,-37.80891324235132,144.95504018635694
+51,52,"Public Toilet - Victoria Harbour, Shed 2 (North Wharf Road)",yes,yes,yes,City of Melbourne,no,-37.818924455699296,144.9342385117904
+53,54,Public Toilet - Toilet 107 - Alexandra Park,yes,yes,yes,City of Melbourne,no,-37.82764304616528,144.9818116607595
+54,55,Public Toilet - Toilet 169 - Batman Park (2A Spencer Street),yes,yes,yes,City of Melbourne,no,-37.821720681669966,144.95557809313962
+56,57,Public Toilet - Toilet 1 - Lonsdale Street (Opposite 581 Lonsdale Street),yes,yes,yes,City of Melbourne,no,-37.814345522392365,144.9551179464378
+57,58,Public Toilet - Toilet 145 - Carlton Gardens South (Opposite 39 Rathdowne Street),yes,yes,yes,City of Melbourne,no,-37.80625893301874,144.9692027022002
+60,61,Public Toilet - Toilet 181 - Point Park (Point Park Crescent),yes,yes,yes,City of Melbourne,yes,-37.82331083443533,144.94182760665478
+62,63,Public Toilet - Toilet 11 - Lonsdale Street (Opposite 88 Lonsdale Street),yes,yes,yes,City of Melbourne,no,-37.8100356799286,144.96990246330486
+64,65,Public Toilet - Toilet 117 - Powlett Reserve (Opposite 128 Albert Street),yes,yes,yes,City of Melbourne,no,-37.81094232809633,144.98685873937842
+65,66,Public Toilet - Toilet 182 - Docklands Park South - 25 Harbour Esplanade,yes,yes,yes,City of Melbourne,yes,-37.82175860330799,144.94738341867807
+67,68,"Public Toilet - Toilet 42 - Fawkner Park, Opposite 55 Commercial Road",yes,yes,yes,City of Melbourne,no,-37.845206563009405,144.9826144313013
+68,69,"Public Toilet - Toilet 162 - JJ Holland Park (Opposite, 48 Altona Street)",yes,yes,yes,City of Melbourne,no,-37.79812546150608,144.92642466756246
+70,71,"Public Toilet - Toilet 44 - Fawkner Park, Opposite 150W Toorak Road",yes,yes,yes,City of Melbourne,no,-37.83825284124979,144.98438921994168
+71,72,Public Toilet - Toilet 172 - Southbank Promenade (opposite Esso House),yes,yes,yes,City of Melbourne,no,-37.82034212858627,144.96421972799456
+73,74,Public Toilet - Toilet 119 - Fitzroy Gardens Toilets (150 Clarendon Street),yes,yes,yes,City of Melbourne,no,-37.81203615704364,144.98307493665166

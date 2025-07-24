@@ -614,9 +614,9 @@ const selectedMode = ref('wheelchair'); // default
 
 const places = ref([
   // { name: 'Tram Stops', code: 'tram_stop' },
-  // { name: 'Accessible Toilets', code: 'accessible_toilets' },
   { name: 'Cafe', code: 'catering.cafe' },
   { name: 'Supermarket', code: 'commercial.supermarket' },
+  { name: 'Accessible Toilets', code: 'accessible_toilets' },
   { name: 'Clothing', code: 'commercial.clothing' },
   { name: 'Shopping Mall', code: 'commercial.shopping_mall' },
   { name: 'Hotel', code: 'accommodation.hotel' }   

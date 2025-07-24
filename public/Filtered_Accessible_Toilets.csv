@@ -1,49 +1,134 @@
-,_id,name,female,male,wheelchair,operator,baby_facil,lat,lon
-4,5,Public Toilet - Toilet 177 - Bellair Street (Opposite 180 Bellair Street),yes,yes,yes,City of Melbourne,no,-37.79373229128235,144.9303518616331
-5,6,Public Toilet - Toilet 118 - Fitzroy Gardens (2 Lansdowne Street),yes,yes,yes,City of Melbourne,no,-37.815278082082735,144.97758877995486
-6,7,Public Toilet - Toilet 34 - Franklin Street (Opposite 80 Franklin Street),yes,yes,yes,City of Melbourne,no,-37.8082334704767,144.9601868749377
-7,8,Public Toilet - Town Hall Melbourne (200 Collins Street),yes,yes,yes,City of Melbourne,yes,-37.81521576619692,144.96694328510318
-8,9,Public Toilet - Toilet 131 - Royal Park (Flemington Rd - Near North Park Tennis Club),yes,yes,yes,City of Melbourne,no,-37.790174410412384,144.94366905096865
-10,11,Public Toilet - Toilet 3 - Flinders Street (399 Flinders Street),yes,yes,yes,City of Melbourne,no,-37.81940611413847,144.96127683121782
-11,12,Public Toilet - Toilet 48 - Birrarung Marr (Opposite Artplay),yes,yes,yes,City of Melbourne,no,-37.81859887229392,144.97105956826817
-12,13,Public Toilet - Toilet 104 - Kings Domain South (off Birdwood Avenue),yes,yes,yes,City of Melbourne,no,-37.83084912404898,144.97518226820782
-13,14,Public Toilet - Toilet 46 - Bourke Street (opposite 225 Bourke Street),yes,yes,yes,City of Melbourne,no,-37.81324543360198,144.9668965896814
-14,15,Public Toilet - Toilet 109 - Kings Domain Myer Music Bowl Rear of,yes,yes,yes,City of Melbourne,yes,-37.82289159858857,144.975280957334
-15,16,"Public Toilet - Toilet 55 - Royal Park (Nature Play, Opposite 51 Gatehouse Street)",yes,yes,yes,City of Melbourne,no,-37.795523148389,144.952142962802
-16,17,Public Toilet - Toilet 112 - Alexandra Gardens (Riverslide Skate Park),yes,yes,yes,City of Melbourne,no,-37.8203552728411,144.9733129088743
-17,18,Public Toilet - Toilet 41 - Flinders Street (No 245 Flinders Street Station),yes,yes,yes,City of Melbourne,no,-37.81790319705616,144.9662642552638
-18,19,Public Toilet - Toilet 136 - Ievers Reserve - Flemington Road,yes,yes,yes,City of Melbourne,no,-37.79679899805757,144.95196665126468
-22,23,Public Toilet - Toilet 128 - Princes Park South Playground (Princes Park Drive),yes,yes,yes,City of Melbourne,no,-37.7855983874526,144.9630353603256
-23,24,"Public Toilet - Saint Mangos Lane, The Palladio (New Quay)",yes,yes,yes,City of Melbourne,no,-37.81435831108069,144.94168216712015
-24,25,Public Toilet - Toilet 4 - Market Street (Opposite 74 Market Street),yes,yes,yes,City of Melbourne,no,-37.81746989209639,144.96025433528794
-25,26,Public Toilet - Toilet 138 - Carlton Gardens North (Opposite 199 Rathdowne Street),yes,yes,yes,City of Melbourne,no,-37.80264555498511,144.96982128721504
-28,29,"Public Toilet - Toilet 173 - JJ Holland Park, Skate Park (113 Kensington Road)",yes,yes,yes,City of Melbourne,no,-37.79806402388687,144.92110584392117
-29,30,Public Toilet - Toilet 36 - Lonsdale Street (Opposite 424 Lonsdale Street),yes,yes,yes,City of Melbourne,U,-37.8129330992456,144.9600121469519
-34,35,Public Toilet - Toilet 13 - Exhibition Street (Opposite 77 Exhibition Street),yes,yes,yes,City of Melbourne,no,-37.81384641664995,144.9713740947211
-35,36,Public Toilet - Toilet 127 - Princes Park Royal Parade (near Park Street),yes,yes,yes,City of Melbourne,no,-37.7789496090064,144.96046591899102
-36,37,Public Toilet - Toilet 111 - Birrarung Marr Speakers Corner,yes,yes,yes,City of Melbourne,no,-37.821004779775386,144.97593322373976
-39,40,Public Toilet - Toilet 122 - Treasury Gardens (Store and Toilet),yes,yes,yes,City of Melbourne,no,-37.81341843500891,144.97746700744847
-40,41,"Public Toilet - Toilet 120 - Royal Park, Wetland (off Oak Street)",yes,yes,yes,City of Melbourne,no,-37.78303248417686,144.94185635299425
-41,42,Public Toilet - Toilet 103 - Kings Domain South (Opposite 169 Domain Road),yes,yes,yes,City of Melbourne,no,-37.83393826633729,144.9817840463506
-42,43,Public Toilet - Queen Victoria Market (465 Queen Street),yes,yes,yes,City of Melbourne,yes,-37.80783122147196,144.95795526595654
-43,44,Public Toilet - Toilet 178 -  Argyle Place North (Opposite 4 Argyle Place North),yes,yes,yes,City of Melbourne,no,-37.80207629420745,144.96642403988702
-44,45,Public Toilet - Toilet 100 - Royal Park - Native Garden (off Gatehouse Street),yes,yes,yes,City of Melbourne,no,-37.79251146448698,144.95685172084129
-46,47,Public Toilet - Toilet 52 - Princes Park (Adjacent Southern Sports Pavilion),yes,yes,yes,City of Melbourne,no,-37.787904827147685,144.95949479077186
-47,48,Public Toilet - Toilet 179 - Lincoln Square (138-142 Bouverie Street),yes,yes,yes,City of Melbourne,no,-37.80271182455448,144.96226812695767
-48,49,Public Toilet - Toilet 43 - Queen Street (opposite 113 Queen Street),yes,yes,yes,City of Melbourne,no,-37.815838165017645,144.9610620730027
-49,50,Public Toilet - Toilet 110 - Queen Victoria Gardens (Linlithgow Avenue),yes,yes,yes,City of Melbourne,no,-37.82294828867767,144.97098568179825
-50,51,Public Toilet - Toilet 154 - Flagstaff Gardens (cnr William & Dudley),yes,yes,yes,City of Melbourne,no,-37.80891324235132,144.95504018635694
-51,52,"Public Toilet - Victoria Harbour, Shed 2 (North Wharf Road)",yes,yes,yes,City of Melbourne,no,-37.818924455699296,144.9342385117904
-53,54,Public Toilet - Toilet 107 - Alexandra Park,yes,yes,yes,City of Melbourne,no,-37.82764304616528,144.9818116607595
-54,55,Public Toilet - Toilet 169 - Batman Park (2A Spencer Street),yes,yes,yes,City of Melbourne,no,-37.821720681669966,144.95557809313962
-56,57,Public Toilet - Toilet 1 - Lonsdale Street (Opposite 581 Lonsdale Street),yes,yes,yes,City of Melbourne,no,-37.814345522392365,144.9551179464378
-57,58,Public Toilet - Toilet 145 - Carlton Gardens South (Opposite 39 Rathdowne Street),yes,yes,yes,City of Melbourne,no,-37.80625893301874,144.9692027022002
-60,61,Public Toilet - Toilet 181 - Point Park (Point Park Crescent),yes,yes,yes,City of Melbourne,yes,-37.82331083443533,144.94182760665478
-62,63,Public Toilet - Toilet 11 - Lonsdale Street (Opposite 88 Lonsdale Street),yes,yes,yes,City of Melbourne,no,-37.8100356799286,144.96990246330486
-64,65,Public Toilet - Toilet 117 - Powlett Reserve (Opposite 128 Albert Street),yes,yes,yes,City of Melbourne,no,-37.81094232809633,144.98685873937842
-65,66,Public Toilet - Toilet 182 - Docklands Park South - 25 Harbour Esplanade,yes,yes,yes,City of Melbourne,yes,-37.82175860330799,144.94738341867807
-67,68,"Public Toilet - Toilet 42 - Fawkner Park, Opposite 55 Commercial Road",yes,yes,yes,City of Melbourne,no,-37.845206563009405,144.9826144313013
-68,69,"Public Toilet - Toilet 162 - JJ Holland Park (Opposite, 48 Altona Street)",yes,yes,yes,City of Melbourne,no,-37.79812546150608,144.92642466756246
-70,71,"Public Toilet - Toilet 44 - Fawkner Park, Opposite 150W Toorak Road",yes,yes,yes,City of Melbourne,no,-37.83825284124979,144.98438921994168
-71,72,Public Toilet - Toilet 172 - Southbank Promenade (opposite Esso House),yes,yes,yes,City of Melbourne,no,-37.82034212858627,144.96421972799456
-73,74,Public Toilet - Toilet 119 - Fitzroy Gardens Toilets (150 Clarendon Street),yes,yes,yes,City of Melbourne,no,-37.81203615704364,144.98307493665166
+Unnamed: 0,_id,name,female,male,wheelchair,operator,baby_facil,lat,lon
+1,3,Federal Park,False,False,True,"Annandale, NSW",False,-33.87440459,151.1757904
+2,5,Sydney Park,False,False,True,"Alexandria, NSW",False,-33.90891728,151.18161283
+3,6,Fitzroy Gardens,False,False,True,"Elizabeth Bay, NSW",False,-33.87309156,151.22557312
+4,7,Beare Park,False,False,True,"Elizabeth Bay, NSW",False,-33.87060099,151.2294246
+5,8,Wallamulla Park,False,False,True,"Woolloomooloo, NSW",False,-33.87293135,151.2193028
+6,9,Turruwull Park,False,False,True,"Rosebery, NSW",False,-33.91868645,151.20397598
+7,11,Rushcutters Bay Park - Reg Bartley Oval,False,False,True,"Rushcutters Bay, NSW",False,-33.87400101,151.2287526
+8,12,Watson Road,False,False,True,"Millers Point, NSW",False,-33.85865203,151.20451849
+9,14,Hyde Park - North,False,False,True,"Sydney, NSW",False,-33.87312618,151.21015377
+10,15,Elizabeth Street,False,False,True,"Sydney, NSW",False,-33.87071782,151.2105368
+11,16,Hyde Park - North 1,False,False,True,"Sydney, NSW",False,-33.87006882,151.211692
+12,17,Hyde Park - North 2,False,False,True,"Sydney, NSW",False,-33.87006933,151.21190689
+13,18,Hyde Park - North 3,False,False,True,"Sydney, NSW",False,-33.87214565,151.21263692
+14,19,Hyde Park South,False,False,True,"Sydney, NSW",False,-33.87664028,151.20996607
+15,20,Belmore Park,False,False,True,"Haymarket, NSW",False,-33.88037921,151.20806938
+16,21,Wynyard Park,False,False,True,"Sydney, NSW",False,-33.86640396,151.20583321
+17,22,Lang Park,False,False,True,"Sydney, NSW",False,-33.86348713,151.2055046
+18,23,Mrs Macquaries Road 1,False,False,True,"Sydney, NSW",False,-33.862412,151.2209244
+19,24,Mare & Foal Statue,False,False,True,"Sydney, NSW",False,-33.86420009,151.2187871
+20,25,Royal Botanic Gardens Visitor Centre,False,False,True,"Sydney, NSW",False,-33.86538855,151.2166804
+21,27,Art Gallery of NSW,False,False,True,"Sydney, NSW",False,-33.86942208,151.2141595
+22,28,Erskineville Train Station,False,False,True,"Erskineville, NSW",False,-33.90022948,151.1855517
+23,29,Martin Place Train Station,False,False,True,"Sydney, NSW",False,-33.86799915,151.2120208
+24,30,Museum Train Station,False,False,True,"Sydney, NSW",False,-33.87607919,151.209841
+25,31,Redfern Train Station,False,False,True,"Redfern, NSW",False,-33.89193933,151.1987014
+26,32,St James Train Station,False,False,True,"Sydney, NSW",False,-33.87019916,151.2119709
+27,34,Town Hall Train Station,False,False,True,"Sydney, NSW",False,-33.87330921,151.206881
+28,35,Wynyard Train Station,False,False,True,"Sydney, NSW",False,-33.86584921,151.2056109
+29,43,Centennial Park Dining,False,False,True,"Centennial Park, NSW",False,-33.89461234,151.23331982
+30,44,Centennial Park - Dickens Drive,False,False,True,"Centennial Park, NSW",False,-33.89876723,151.23473872
+31,45,Federation Valley,False,False,True,"Centennial Park, NSW",False,-33.89424387,151.23656375
+32,46,Mackay Sportsfield ,False,False,True,"Centennial Park, NSW",False,-33.89908835,151.22918463
+33,47,Mission Fields ,False,False,True,"Centennial Park, NSW",False,-33.9022063,151.23249171
+34,48,Learners Cycleway ,False,False,True,"Centennial Park, NSW",False,-33.90322626,151.22936381
+35,51,52 Martin Place,False,False,True,"Sydney, NSW",False,-33.86789335,151.21034105
+36,52,Metcentre,False,False,True,"Sydney, NSW",False,-33.86464175,151.20669541
+37,53,Pavilion Plaza,False,False,True,"Sydney, NSW",False,-33.87511,151.206649
+38,54,Surry Hills Shopping Village,False,False,True,"Redfern, NSW",False,-33.89218583,151.21227075
+39,55,Sydney Fish Market,False,False,True,"Pyrmont, NSW",False,-33.8703303,151.19048418
+40,56,The Broadway Shopping Centre - Ground floor,False,False,True,"Glebe, NSW",False,-33.88416801,151.1939935
+41,57,The Wintergarden,False,False,True,"Sydney, NSW",False,-33.86449059,151.21040359
+42,58,Town Hall Square,False,False,True,"Sydney, NSW",False,-33.87400691,151.20552388
+43,59,Pirrama Park (formerly Pyrmont Point),False,False,True,"Pyrmont, NSW",False,-33.86330007,151.1930495
+44,60,Market City - Ground floor Paddys Market,False,False,True,"Haymarket, NSW",False,-33.87982466,151.20365436
+45,61,Market City - Level 1,False,False,True,"Haymarket, NSW",False,-33.87987603,151.203717
+46,62,Market City - Level 2 Fashion,False,False,True,"Haymarket, NSW",False,-33.87977349,151.20368563
+47,63,Market City - Level 3 Foodcourt,False,False,True,"Haymarket, NSW",False,-33.87980013,151.20371813
+48,64,Central Train Station,False,False,True,"Haymarket, NSW",False,-33.88235848,151.20625458
+49,65,Sydney Convention & Exhibition Centre Car Park,False,False,True,"Sydney, NSW",False,-33.87498301,151.19892047
+50,66,Sydney Park - Alan Davidson Oval Pavilion,False,False,True,"Alexandria, NSW",False,-33.90952826,151.18721692
+51,67,Ward Park,False,False,True,"Surry Hills, NSW",False,-33.88818478,151.21177992
+52,68,Glebe Library,False,False,True,"Glebe, NSW",False,-33.87821252,151.18538699
+53,69,Customs House Library,False,False,True,"Sydney, NSW",False,-33.861534,151.21056
+54,71,Ultimo Library,False,False,True,"Ultimo, NSW",False,-33.878426,151.197203
+55,73,Redfern Park ,False,False,True,"Redfern, NSW",False,-33.89431899,151.20530829
+56,74,Joynton Park,False,False,True,"Zetland, NSW",False,-33.90629504,151.21103315
+57,75,Tote Park,False,False,True,"Zetland, NSW",False,-33.90446421,151.20991114
+58,76,Nuffield Park,False,False,True,"Zetland, NSW",False,-33.90755476,151.21091466
+59,77,Waterloo Oval,False,False,True,"Waterloo, NSW",False,-33.90115977,151.20465003
+60,81,Pirrama Park Kiosk,False,False,True,"Pyrmont, NSW",False,-33.86589,151.19169
+61,82,Sydney Park Playground,False,False,True,"Alexandria, NSW",False,-33.90922708,151.18263989
+62,83,Taylor Square,False,False,True,"Paddington, NSW",False,-33.88013892,151.21704455
+63,84,Bourke St Park,False,False,True,"Woolloomooloo, NSW",False,-33.8715799,151.2187403
+64,85,Wentworth Park Sports Fields,False,False,True,"Glebe, NSW",False,-33.8768221,151.1912427
+65,88,Prince Alfred Park,False,False,True,"Surry Hills, NSW",False,-33.8872678,151.20630048
+66,89,Foley Park,False,False,True,"Glebe, NSW",False,-33.88036205,151.18624662
+67,90,Old Redfern Town Hall,False,False,True,"Redfern, NSW",False,-33.89190878,151.20424892
+68,91,Redfern Community Centre,False,False,True,"Redfern, NSW",False,-33.89035896,151.19832276
+69,92,Glebe Town Hall,False,False,True,"Glebe, NSW",False,-33.88268905,151.18521106
+70,94,Town Hall House Public Toilet,False,False,True,"Sydney, NSW",False,-33.87336759,151.2053725
+71,95,The Grounds Alexandria,False,False,True,"Sydney, NSW",False,-33.91061305,151.19424465
+72,97,Caltex Alexandria,False,False,True,"Alexandria, NSW",False,-33.90167252,151.19991141
+73,98,Space Espresso Bar,False,False,True,"Rosebery, NSW",False,-33.91567322,151.20275062
+74,99,Paddington Markets,False,False,True,"Paddington, NSW",False,-33.8872317,151.2297946
+75,100,Imperial Hotel,False,False,True,"Paddington, NSW",False,-33.88489819,151.22683113
+76,101,Paddington RSL,False,False,True,"Paddington, NSW",False,-33.88476034,151.22579735
+77,102,Waterfront Park,False,False,True,"Pyrmont, NSW",False,-33.8675558,151.1893571
+78,103,Central Station Platform 1,False,False,True,"Haymarket, NSW",False,-33.88240953,151.20592832
+79,104,Cockle Bay Restaurant Precinct,False,False,True,"Sydney, NSW",False,-33.87207369,151.20227819
+80,105,InterPark - Atrium Building,False,False,True,"Pyrmont, NSW",False,-33.87000173,151.19626476
+81,106,Star Casino - Food Court,False,False,True,"Pyrmont, NSW",False,-33.8682833,151.1944216
+82,107,Star Casino - Pyrmont Street,False,False,True,"Pyrmont, NSW",False,-33.8684481,151.19455034
+83,108,Star Casino -  Jones Bay Road Entrance,False,False,True,"Pyrmont, NSW",False,-33.86737464,151.19468982
+84,109,Caltex Woolworths Rosebery,False,False,True,"Rosebery, NSW",False,-33.92290982,151.20601902
+85,110,Westfield Sydney Level 5,False,False,True,"Sydney, NSW",False,-33.8703858,151.2090761
+86,111,Myer Sydney,False,False,True,"Sydney, NSW",False,-33.870451,151.2071595
+87,112,Westfield Sydney Level 5,False,False,True,"Sydney, NSW",False,-33.8703858,151.2090761
+88,113,Westfield Sydney,False,False,True,"Sydney, NSW",False,-33.8703858,151.2090761
+89,114,Westfield Sydney Level 1,False,False,True,"Sydney, NSW",False,-33.8703858,151.2090761
+90,115,Cohen Park,False,False,True,"Annandale, NSW",False,-33.87613439,151.16949319
+91,116,Mid City Centre,False,False,True,"Sydney, NSW",False,-33.8697357,151.208244
+92,117,Queen Victoria Building,False,False,True,"Sydney, NSW",False,-33.87179464,151.20675922
+93,118,Stockland Piccadilly Centre,False,False,True,"Sydney, NSW",False,-33.8715506,151.2083056
+94,119,Strand Arcade,False,False,True,"Sydney, NSW",False,-33.86941296,151.20759505
+95,120,Kings Cross Library,False,False,True,"Potts Point, NSW",False,-33.8739654,151.223391
+96,121,David Jones - Market Street,False,False,True,"Sydney, NSW",False,-33.87080936,151.20990939
+97,122,Mid City Shopping Centre,False,False,True,"Sydney, NSW",False,-33.86972093,151.20812677
+98,123,Victoria Park,False,False,True,"Chippendale, NSW",False,-33.88513165,151.19408798
+99,124,Wulaba Park,False,False,True,"Waterloo, NSW",False,-33.90213257,151.21057254
+100,125,Central Station Grand Concourse,False,False,True,"Haymarket, NSW",False,-33.8822503,151.20590625
+101,126,Central Station Grand Concourse,False,False,True,"Sydney, NSW",False,-33.88328349,151.20526252
+102,127,Market City - Ground floor Paddys Market,False,False,True,"Sydney, NSW",False,-33.87993428,151.20356424
+103,128,Westfield Sydney Level 2,False,False,True,"Sydney, NSW",False,-33.8706274,151.2075286
+104,129,Roslyn Packer Theatre Ground Floor,False,False,True,"Millers Point, NSW",False,-33.85700808,151.20435159
+105,130,Roslyn Packer Theatre Level 2,False,False,True,"Millers Point, NSW",False,-33.85690558,151.20453785
+106,131,Harbourside Shopping Centre,False,False,True,"Pyrmont, NSW",False,-33.87103854,151.19859197
+107,132,Broadway Shopping Centre - Level 1,False,False,True,"Glebe, NSW",False,-33.88368354,151.1947815
+108,133,Broadway Shopping Centre - Lower ground floor,False,False,True,"Glebe, NSW",False,-33.88371917,151.19480296
+109,134,Broadway Shopping Centre - Level 3,False,False,True,"Glebe, NSW",False,-33.88373698,151.19474932
+110,135,The Galeries,False,False,True,"Sydney, NSW",False,-33.8721421,151.20786064
+111,136,Federation Valley,False,False,True,"Centennial Park, NSW",False,-33.89427063,151.23693765
+112,137,East Village Shopping Centre,False,False,True,"Zetland, NSW",False,-33.90507766,151.21305954
+113,138,Newtown Train Station,False,False,True,"Newtown, NSW",False,-33.89783001,151.17880797
+114,139,Barangaroo Reserve,False,False,True,"Barangaroo, NSW",False,-33.85593105,151.20208706
+115,140,The Cutaway,False,False,True,"Barangaroo, NSW",False,-33.85829404,151.20173199
+116,141,400 Barangaroo Avenue,False,False,True,"Barangaroo, NSW",False,-33.86576092,151.201942
+117,142,Jubilee Park Cricket Pavilion,False,False,True,"Glebe, NSW",False,-33.87502616,151.17887979
+118,143,Fernside Skate Park,False,False,True,"Waterloo, NSW",False,-33.90226891,151.20543386
+119,144,Erskineville Oval,False,False,True,"Erskineville, NSW",False,-33.90130735,151.19016998
+120,145,Harry Jenson Centre,False,False,True,"Millers Point, NSW",False,-33.85873802,151.20426248
+121,147,Childrens Wildplay Garden - Discovery Centre,False,False,True,"Centennial Park, NSW",False,-33.89834476,151.23914387
+122,148,NSW Parliament House,False,False,True,"Sydney, NSW",False,-33.8674319,151.2127188
+123,149,Pyrmont Bridge West,False,False,True,"Sydney, NSW",False,-33.87043728,151.19911496
+124,150,Alexandria Park,False,False,True,"Alexandria, NSW",False,-33.9004501,151.19655506
+125,151,Darling Square Library,False,False,True,"Surry Hills, NSW",False,-33.8775696,151.2027155
+126,152,Sydney Park Cycle Track,False,False,True,"Alexandria, NSW",False,-33.90766999,151.18493026
+127,153,Belleview House,False,False,True,"Glebe, NSW",False,-33.8716603,151.1847946
+128,154,Tramsheds,False,False,True,"Forest Lodge, NSW",False,-33.8761055,151.1783737
+129,155,Garraway Park Public Toilet,False,False,True,"Rosebery, NSW",False,-33.9134739,151.2103288
+130,156,Gunyama Park Aquatic and Recreation Centre,False,False,True,"Zetland, NSW",False,-33.9085602,151.20784694
+131,157,259 George Street,False,False,True,"Sydney, NSW",False,-33.86371015,151.2068884
+132,158,Kings Cross Station,False,False,True,"Potts Point, NSW",False,-33.87426935,151.22261042
+133,159,Australian Museum,False,False,True,"Darlinghurst, NSW",False,-33.8740146,151.213301

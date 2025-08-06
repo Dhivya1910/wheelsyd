@@ -42,20 +42,20 @@ const router = createRouter({
 })
 
 // Your existing authentication guard
-router.beforeEach((to, from, next) => {
-  const isAuthed = localStorage.getItem('authenticated');
-  if (!isAuthed || isAuthed !== 'true') {
-    const password = prompt('Please enter your access code：');
-    if (password === '123456789') {
-      localStorage.setItem('authenticated', 'true');
-      next(); 
-    } else {
-      alert('Wrong password!');
-      next(false); 
-    }
-  } else {
-    next(); 
-  }
-})
+// router.beforeEach((to, from, next) => {
+//   const isAuthed = localStorage.getItem('authenticated');
+//   if (!isAuthed || isAuthed !== 'true') {
+//     const password = prompt('Please enter your access code：');
+//     if (password === '123456789') {
+//       localStorage.setItem('authenticated', 'true');
+//       next(); 
+//     } else {
+//       alert('Wrong password!');
+//       next(false); 
+//     }
+//   } else {
+//     next(); 
+//   }
+// })
 
 export default router

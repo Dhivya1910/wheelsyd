@@ -2317,7 +2317,7 @@ const openGoogleMapsNavigation = async () => {
                   v-model="fromLocation"
                   :suggestions="suggestions"
                   optionLabel="label"
-                  placeholder="Enter address from the dropdown or use live location"
+                  placeholder="Enter your location"
                   @complete="searchSuggestions"
                   @item-select="onLocationSelect"
 

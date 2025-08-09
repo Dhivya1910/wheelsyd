@@ -71,7 +71,7 @@ onMounted(() => {
       <nav  class="main-nav">
         <div class="logo">
           <RouterLink to="/" class="nav-link">
-            <img src="./views/image/logo3.png" alt="Logo" />
+            <img src="./views/image/logo4.jpeg" alt="Logo" />
           </RouterLink>
         </div>
         <div class="routes">
@@ -108,7 +108,7 @@ onMounted(() => {
   </main>
 
   <footer class="main-footer">
-    Wheelmelb makes every journey more convenient- designed with ❤
+    WheelSyd makes every journey more convenient- designed with ❤
     </footer>
 </template>
 
@@ -120,6 +120,7 @@ a {
   background-color: transparent;
   color: rgb(255, 255, 255); 
   box-shadow: none;
+  height: 6rem; 
 }
 
 .main-header.scrolled-to-top a{
@@ -136,7 +137,10 @@ a {
 }
 
 .main-header.scrolled-to-top .logo .nav-link img {
-  content: url('./views/image/logo3-white.png');
+  content: url('./views/image/logo5.jpeg');
+  height: 8rem !important;   /* force actual rendered height */
+  width: auto !important;
+  max-height: none !important;
 }
 
 

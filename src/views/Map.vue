@@ -880,7 +880,7 @@ const getLiveLocation = () => {
           handleLocationError,
           { enableHighAccuracy: true }
         );
-      }, 3000);
+      }, 10000);
     },
     handleLocationError
   );
